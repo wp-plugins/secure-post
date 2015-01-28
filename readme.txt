@@ -31,7 +31,7 @@ Use plugin support button in WordPress.org listing.
 
 == Changelog ==
 
-= 0.1 =
+= 1.0 =
 * Initial release
 
 == Upgrade Notice ==
